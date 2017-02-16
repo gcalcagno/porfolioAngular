@@ -1,0 +1,11 @@
+<div>
+  <div class="page-header">
+    <h1>Porfolio</h1>
+  </div>
+  <div class="item col-xs-12 col-sm-6 col-md-4" ng-repeat="item in items">
+   <a class="pull-left" href="/#porfolio/{{item.name | normalize}}">
+    <h4 class="text-uppercase">{{item.name}}</h4>
+    <img class="img-responsive" ng-src="{{item.img | imageify}}">
+    </a>
+  </div>
+</div>

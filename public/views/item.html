@@ -1,0 +1,39 @@
+<!-- item -->
+<div>
+<div class="pull-right"><a href="/"> < VOLVER AL LISTADO</a></div>
+  <div class="page-header">
+    <h1>
+      {{item.name}}
+    </h1>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <img class="img-responsive center-block" ng-src="/{{item.img | imageify}}">
+    </div>
+    <div class="col-md-6" ng-controller="TabsController as tabs">
+      
+      <item-tabs></item-tabs>
+
+      <div class="tab-content">
+        <!-- Itemmkdir views
+         -->
+        <div ng-show="tabs.tab === 1">
+          <item-data></item-data>
+        </div>
+        <!-- Imagenes -->
+        <div ng-show="tabs.tab === 3">
+          <div class="text-center" ng-repeat="img in item.imagenes">
+            <a href="#">
+              <img src="/{{img | imageify}}" width="160">
+              <p>
+                <strong>{{img}}</strong>
+              </p>
+            </a>
+            <span ng-hide="$last" class="glyphicon glyphicon-arrow-down"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /item -->

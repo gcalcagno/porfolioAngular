@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html ng-app="porfolio">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Porfolio</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header pull-left">
+          <a class="navbar-brand " href="#">
+            <img src="img/logo.png">
+            Porfolio
+          </a>
+        </div>
+        <img class="pull-right" src="/img/logo-angular.png" width="145px">
+      </div>
+    </div>
+    <div class="container">
+
+      <div ng-view></div>
+
+    </div>
+    <script src="js/lib/angular.min.js"></script>
+    <script src="js/lib/angular-route.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/directives.js"></script>
+    <script src="js/filters.js"></script>
+    <script src="js/services.js"></script>
+  </body>
+</html>

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "001",
+    "name": "El tanque fútbol",
+    "img": "tanque-futbol.jpg",
+    "customer": "Sport Champs",
+    "siteWeb": "http://eltanquefutbol.com/",
+    "description": "Maquetado y Programación de sitio web institucional responsive con Bootstrap, Sass, Laravel 5, Gulp y Bower. Backend para administración de torneos de fútbol.",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "Html 5", "Bootstrap", "Sass", "JQuery", "Laravel 5", "PHP", "Mysql" ]
+  },
+
+  {
+    "id": "002",
+    "name": "Giutec",
+    "img": "giutec.jpg",
+    "customer": "Pokemon",
+    "siteWeb": "http://www.giutec.com.ar",
+    "description": "One Page + Contact Form. Anmaciones con jQuery, Bootstrap, HTML5, CSS3.",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "HTML 5", "CSS3", "JQuery", "Bootstrap" ]
+  },
+
+  {
+    "id": "002",
+    "name": "Sport Champ",
+    "img": "sport-champ.jpg",
+    "customer": "Sport Champ",
+    "siteWeb": "http://sportchamp.com.ar/",
+    "description": "Maquetado y Programación de sitio web responsive con Bootstrap, Stylus y Scroll Animations. Backend para admnistración de blog de noticias realizado en PHP (POO).",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "Html 5", "Bootstrap", "JQuery", "PHP"]
+  },
+
+  {
+    "id": "002",
+    "name": "Maxtension",
+    "img": "maxtension.jpg",
+    "customer": "Maxtension SRL",
+    "siteWeb": "http://maxtension.com.ar",
+    "description": "Maquetado y Programación de sitio web responsive con Bootstrap, Stylus y Scroll Animations. Backend para admnistración de blog de noticias realizado en PHP (POO).",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "Html 5", "Bootstrap", "PHP", "Mysql", "Stylus" ]
+  },
+
+  {
+    "id": "002",
+    "name": "Los que se van",
+    "img": "los-que-se-van.jpg",
+    "customer": "Los que Se Van",
+    "siteWeb": "http://cv.calcagnogiannina.com.ar/proyectos/los-que-se-van/",
+    "description": "Maquetado de sitio web responsive con HTML5, CSS3, Bootstrap y Stylus.",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "HTML 5", "CSS3", "JQuery", "Stylus"]
+  },
+
+  {
+    "id": "002",
+    "name": "Larala.com",
+    "img": "larala.jpg",
+    "customer": "Larala.com",
+    "siteWeb": "http://larala.com",
+    "description": "Maquetado y programación de sitio web responsive con Symfony 2.",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "Html 5", "Bootstrap", "Laravel 5", "Symfony 2", "JQuery" ]
+  },
+  {
+    "id": "002",
+    "name": "Galería para Reservas",
+    "img": "reservas.jpg",
+    "customer": "",
+    "siteWeb": "http://cv.calcagnogiannina.com.ar/proyectos/reservas/",
+    "description": "Galería realizada en jQuery para reservas de Restaurant.",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "HTML 5", "CSS3", "JQuery", "Bootstrap" ]
+  },
+
+  {
+    "id": "002",
+    "name": "Landing Megamedium",
+    "img": "megamedium-landing.jpg",
+    "customer": "",
+    "siteWeb": "",
+    "description": "Maquetado de landing page para campaña en adwords",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "HTML 5", "CSS3", "JQuery", "Bootstrap" ]
+  },
+
+  {
+    "id": "002",
+    "name": "Reproductor de audio",
+    "img": "reproductor-de-audio.jpg",
+    "customer": "",
+    "siteWeb": "",
+    "description": "Reproductor de audio + playlist de temas realizado en Javascript.",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "HTML 5", "CSS3", "JQuery", "Bootstrap" ]
+  },
+
+  {
+    "id": "002",
+    "name": "Reproductor de video",
+    "img": "reproductor-de-video.jpg",
+    "customer": "",
+    "siteWeb": "",
+    "description": "Reproductor de video responsive realizado en Javascript.",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "HTML 5", "CSS3", "JQuery", "Bootstrap" ]
+  },
+
+  {
+    "id": "002",
+    "name": "Cisrod",
+    "img": "cisrod-landing.jpg",
+    "customer": "",
+    "siteWeb": "",
+    "description": "Sitio web autoadministrable con Wordpres.",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "HTML 5", "CSS3", "Wordpres", "JQuery" ]
+  },
+  {
+    "id": "002",
+    "name": "Natalia Calcagno",
+    "img": "natalia-calcagno.jpg",
+    "customer": "",
+    "siteWeb": "",
+    "description": "Sitio web autoadministrable con Wordpres.",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "HTML 5", "CSS3", "Wordpres", "JQuery" ]
+  },
+  {
+    "id": "002",
+    "name": "Vistiendo Reinas",
+    "img": "vistiendo-reynas.jpg",
+    "customer": "",
+    "siteWeb": "",
+    "description": "Maquetado de sitio web autoadministrable con Wordpres.",
+    "type": [ "Desarrollo-Web", "Maquetacion" , "Programacion" ],
+    "technologies": [ "HTML 5", "CSS3", "Wordpres" ]
+  }
+
+]
